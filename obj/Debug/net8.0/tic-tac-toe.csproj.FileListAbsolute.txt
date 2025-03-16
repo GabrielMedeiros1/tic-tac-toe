@@ -12,3 +12,4 @@ C:\Users\gabri\Documents\GitHub\tic-tac-toe\obj\Debug\net8.0\refint\tic-tac-toe.
 C:\Users\gabri\Documents\GitHub\tic-tac-toe\obj\Debug\net8.0\tic-tac-toe.pdb
 C:\Users\gabri\Documents\GitHub\tic-tac-toe\obj\Debug\net8.0\tic-tac-toe.genruntimeconfig.cache
 C:\Users\gabri\Documents\GitHub\tic-tac-toe\obj\Debug\net8.0\ref\tic-tac-toe.dll
+C:\Users\gabri\Documents\GitHub\tic-tac-toe\obj\Debug\net8.0\tic-tac-toe.sourcelink.json
